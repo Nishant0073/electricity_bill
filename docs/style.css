@@ -1,0 +1,97 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+button {
+   background-color: #20B2AA; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+  transition-duration: 0.4s;
+}
+
+
+
+body
+{
+	text-align: center;
+	color: #150962;
+}
+
+.heading
+{
+	text-align: center;
+	margin-top: 50px;
+	color: #161748;
+	font-family: 'Raleway', sans-serif;
+	border: solid;
+	border-style: solid;
+    border-width: 5px;
+    margin: 60px;
+    margin-left: 250px;
+    margin-right:250px;
+    padding: 30px;
+    background-color: #CCFFFF;
+}
+
+
+label
+{
+	font-family: 'Piazzolla', serif;
+	padding: 20px;
+	font-size: 30px;
+}
+
+
+.center
+{
+	margin: 0;
+    position: absolute;
+    margin-left: 47%;
+    transform: translate(-50%, -50%) ;
+    display: flex;
+    margin-top: 60px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+
+input
+{
+	box-sizing: border-box;
+	height: 51px;
+}
+
+#answer
+{
+	color: #3E055B;
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+}
+
+.name
+{
+	 font-family: 'Marck Script', cursive;
+	 position: absolute; 
+	 bottom: 0; 
+	 left: 0; 
+	 width: 100%; 
+	 color: #FFA07A;
+	 font-size: 20px;
+	 text-align: center;
+}
