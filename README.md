@@ -1,3 +1,3 @@
 # electricity_bill
 
-http://bit.ly/MSEBelectricitybill
+https://bit.ly/electricitybillcalculator
